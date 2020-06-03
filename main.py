@@ -15,7 +15,7 @@ from dlib_helper import (shape_to_np,
                           contouring,
                           process_thresh, 
                           print_eye_pos,
-                          nothing)
+                          )
 from define_mouth_distances import return_distances
 
 yolo = YoloV3()
